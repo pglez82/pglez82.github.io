@@ -45,24 +45,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have been working as a lecturer for the last years while doing my PhD
+      in machine learning. I fancy teaching programming and computer science in
+      general but I also love software development and data science.
 education:
     - degree: PhD in Computer Science
       university: University of Oviedo
       time: 2015 - 2019
-      details: Esto es una mini prueba
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: |
+        Automatic plankton quantification using ...
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
