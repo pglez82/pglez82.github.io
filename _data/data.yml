@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Pablo González
-    tagline: Data sciencist
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,6 +17,7 @@ sidebar:
     website:
     linkedin: p-gonzález-gonzález
     github: pglez82
+    researchgate: Pablo_Gonzalez10
     gitlab:
     bitbucket:
     twitter:
@@ -51,9 +52,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Phd in Computer Science
+      university: University of Oviedo
+      time: 2015 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
