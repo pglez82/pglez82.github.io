@@ -52,7 +52,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Phd in Computer Science
+    - degree: PhD in Computer Science
       university: University of Oviedo
       time: 2015 - 2019
       details: |
@@ -165,23 +165,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
       - name: Angular
-        level: 98%
+        level: 90%
 
       - name: HTML5 & CSS
+        level: 80%
+
+      - name: Java
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: R
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux Administration
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
