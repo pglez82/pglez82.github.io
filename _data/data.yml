@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: pglez82@gmail.com
-    phone: +34 619 582 086
+    phone: 
     website:
     linkedin: p-gonzález-gonzález
     github: pglez82
@@ -30,7 +30,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Professional, C1
 
     interests:
       - item: Climbing
@@ -50,107 +50,92 @@ career-profile:
       general but I also love software development and data science.
 education:
     - degree: PhD in Computer Science
-      university: University of Oviedo
+      university: University of Oviedo, Spain
       time: 2015 - 2019
       details: |
-        Automatic plankton quantification using ...
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        PhD Dissertation Title: Design of quantification methods applied to the distribution estimation of taxonomic groups present in plankton samples.
+    - degree: Masters Degree in Advanced Artificial Intelligence
+      university: UNED (Spanish Open University), Spain
+      time: 2011 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Master thesis: Automatic quantification of micro-plankton samples.
+    - degree: Computer Science and Engineering
+      university: University of Oviedo, Spain
+      time: 2001 - 2007
+      details: |
+        Erasmus grant in Bratislava, Slovakia (September 2006-March 2007). Comenius University.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Part-Time lecturer
+      time: 2018 - Present
+      company: University of Oviedo, Spain
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Subjects: Programming introduction and Fundamentals of Computing.
+    - role: Polytechnic teacher
+      time: 2010 - Present
+      company: Spanish government (Resional Ministry of Education)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Teaching Java programming language for desktop interfaces and web interfaces.
+    - role: Part-Time lecturer
+      time: Feb 2012 - Jun 2012
+      company: University of Cantabria, Spain
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Subjects: Fundamentals of Computing and Computer Systems.
+    - role: Reasearcher
+      time: 2009 - 2010
+      company: Artificial Intelligence Centre in Gijón, Spain
+      details: |
+          - Imagina project: Integration of image analysis methods of plankton groups with artificial intelligence techniques. In collaboration with the Oceanographic Institute of Gijón (Spain).
+    - role: Full Stack Developer
+      time: 2007 - 2009
+      company: Fi2net, Gijón (Spain)
+      details: |
+          - Web applications design and programming using Java (JSF, Spring Framework, Oracle DB, etc).
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      In addition to my main job as a teacher and the PhD, I have worked in several personal projects using a variety of techonologies.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Boulder problems
+        link: "https://play.google.com/store/apps/details?id=com.asturias.pablo.pasos"
+        tagline: "An Android application for sharing boulder problems with other climbers."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: MeteoMarina
+        link: "https://github.com/pglez82/MeteoMarina"
+        tagline: "An angular application (ported to Android using Cordova), for checking weather forecasts aimed to the sailing community in Spain."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Navtex Bot
+        link: "https://github.com/pglez82/navtex_bot"
+        tagline: "A telegram bot written in python that sends Navtex messages (meteorological information)."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      In the last years I have being working in machine learning, especially in plankton quantification.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Automatic plankton quantification using deep features
+        link: "https://academic.oup.com/plankt/article-abstract/41/4/449/5537667"
+        authors: González, P., Castaño, A., Peacock, E. E., Díez, J., Del Coz, J. J., & Sosik, H. M.
+        conference: Journal of Plankton Research, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: A Review on Quantification Learning
+        link: "https://dl.acm.org/citation.cfm?id=3117807"
+        authors: González, P., Castaño, A., Chawla, N., del Coz, J.J.
+        conference: ACM Computing Surveys, 2017
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Validation methods for plankton image classification systems
+        link: "https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lom3.10151"
+        authors: González, P., Álvarez, E., Díez, J., López‐Urrutia, Á., & del Coz, J. J.
+        conference: "Limnology and Oceanography: Methods, 2016"
+
+      - title: Why is quantification an interesting learning problem?
+        link: "https://link.springer.com/article/10.1007/s13748-016-0103-3"
+        authors: González, P., Díez, J., Chawla, N., & del Coz
+        conference: "Progress in Artificial Intelligence, 2016"
+
+      - title: Multiclass Support Vector Machines With Example-Dependent Costs Applied to Plankton Biomass Estimation
+        link: "https://link.springer.com/article/10.1007/s13748-016-0103-3"
+        authors: González, P., Alvarez, E., Barranquero, J., Díez, J., González-Quirós, R., Nogueira, E., ... & del Coz, J. J.
+        conference: "IEEE transactions on neural networks and learning systems, 2013"
 
 skills:
     title: Skills &amp; Proficiency
@@ -159,22 +144,31 @@ skills:
       - name: Python
         level: 80%
 
-      - name: Javascript & jQuery
-        level: 80%
-
-      - name: Angular
-        level: 90%
-
-      - name: HTML5 & CSS
-        level: 80%
-
       - name: Java
         level: 95%
 
       - name: R
         level: 90%
 
-      - name: Linux Administration
+      - name: Javascript & jQuery
+        level: 80%
+
+      - name: MySQL, Postgres, SQLite
+        level: 85%
+
+      - name: Angular JS
+        level: 90%
+
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: Android and Cordova
+        level: 90%
+
+      - name: Linux
+        level: 95%
+
+      - name: Latex
         level: 85%
 
 footer: >
