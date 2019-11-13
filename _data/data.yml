@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Pablo González
-    tagline: Data Scientist
+    tagline: Data Scientist and Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pglez82@gmail.com
-    phone: 
+    phone:
     website:
     linkedin: p-gonzález-gonzález
     github: pglez82
@@ -101,16 +101,20 @@ projects:
 
       - title: MeteoMarina
         link: "https://github.com/pglez82/MeteoMarina"
-        tagline: "An angular application (ported to Android using Cordova), for checking weather forecasts aimed to the sailing community in Spain."
+        tagline: "An Angular application (ported to Android using Cordova), for checking weather forecasts aimed to the sailing community in Spain."
 
       - title: Navtex Bot
         link: "https://github.com/pglez82/navtex_bot"
         tagline: "A telegram bot written in python that sends Navtex messages (meteorological information)."
 
+      - title: WHOI Results Plotter
+        link: "https://pglez82.github.io/IFCB_quantification/"
+        tagline: "AngularJS website to explore the main results of my PhD."
+
 publications:
     title: Publications
     intro: |
-      In the last years I have being working in machine learning, especially in plankton quantification.
+      For the last years I have being working in machine learning, especially in plankton quantification, which has resulted in a few publications in major journals.
     papers:
       - title: Automatic plankton quantification using deep features
         link: "https://academic.oup.com/plankt/article-abstract/41/4/449/5537667"
@@ -170,6 +174,10 @@ skills:
 
       - name: Latex
         level: 85%
+
+      - name: Google Cloud & Amazon AWS
+        level: 75%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
