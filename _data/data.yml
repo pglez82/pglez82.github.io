@@ -178,6 +178,9 @@ skills:
       - name: Google Cloud & Amazon AWS
         level: 75%
 
+      - name: Docker
+        level: 75%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
