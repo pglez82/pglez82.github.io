@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Pablo González
-    tagline: Data Scientist and Software Developer
+    tagline: Assistant Professor at University of Oviedo
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -45,9 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have been working as a lecturer for the last years while doing my PhD
-      in machine learning. I fancy teaching programming and computer science in
-      general but I also love software development and data science.
+      I work as an Assistant Professor at the University of Oviedo (Spain). My research interests are machine learning, computer vision, etc. and in particular quantification and those applicacions that can make a difference, as the automatic quantification of plankton samples.
 education:
     - degree: PhD in Computer Science
       university: University of Oviedo, Spain
