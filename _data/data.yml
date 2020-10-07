@@ -65,13 +65,18 @@ education:
       details: |
         Erasmus grant in Bratislava, Slovakia (September 2006-March 2007). Comenius University.
 experiences:
+    - role: Assistant Professor
+      time: Oct 2020 - Now
+      company: University of Oviedo, Spain
+      details: |
+          - Subjects: Software Arquitecture, Programming.
     - role: Part-Time lecturer
-      time: 2018 - Present
+      time: 2018 - Oct 2020
       company: University of Oviedo, Spain
       details: |
           - Subjects: Software Arquitecture, Introduction to Programming and Fundamentals of Computing.
     - role: Polytechnic teacher
-      time: 2010 - Present
+      time: 2010 - Oct 2020
       company: Spanish government (Resional Ministry of Education)
       details: |
           - Teaching Java programming language for desktop interfaces and web interfaces.
