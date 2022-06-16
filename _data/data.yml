@@ -124,11 +124,11 @@ publications:
       For the last years I have being working in machine learning, especially in plankton quantification, which has resulted in a few publications in major journals.
     papers:
       - title: "Matching Distributions Algorithms Based on the Earth Mover’s Distance for Ordinal Quantification"
-        link: https://ieeexplore.ieee.org/abstract/document/9791435?casa_token=Sni-jNN_Dt0AAAAA:tbwryC2GddFSaKY6_vWVyXOIqn419RMfoKMo9YBJORNtuO6wbLNOZTM5p6BFKo-dV1r4eXzi3A
+        link: "https://ieeexplore.ieee.org/abstract/document/9791435?casa_token=Sni-jNN_Dt0AAAAA:tbwryC2GddFSaKY6_vWVyXOIqn419RMfoKMo9YBJORNtuO6wbLNOZTM5p6BFKo-dV1r4eXzi3A"
         authors: Castaño, A., González, P., González, J. A., & Del Coz, J. J.
         conference: "IEEE Transactions on Neural Networks and Learning Systems, 2022"
 
-      - title: Learning to quantify: Methods and applications (LQ 2021)
+      - title: "Learning to quantify: Methods and applications (LQ 2021)"
         link: "https://dl.acm.org/doi/abs/10.1145/3459637.3482040"
         authors: Del Coz, J. J., González, P., Moreo, A., Sebastiani, F.
         conference: "Proceedings of the 30th ACM International Conference on Information & Knowledge Management"
@@ -152,6 +152,11 @@ publications:
         link: "https://link.springer.com/article/10.1007/s13748-016-0103-3"
         authors: González, P., Díez, J., Chawla, N., del Coz, J. J.
         conference: "Progress in Artificial Intelligence, 2016"
+
+      - title: On the study of nearest neighbor algorithms for prevalence estimation in binary problems
+        link: "https://www.sciencedirect.com/science/article/pii/S0031320312003391?casa_token=s62XKOqQj_gAAAAA:exUmWnlgfoojxtOFhvVYHyLEuQ-i-pQaqz-oP2iC7gxGhOY0RzEV9Wof1PLxqq1uOt4_72qGoA"
+        authors: Barranquero, J., González, P., Díez, J., & Del Coz, J. J. 
+        conference: "Pattern Recognition, 2013"
 
       - title: Multiclass Support Vector Machines With Example-Dependent Costs Applied to Plankton Biomass Estimation
         link: "https://ieeexplore.ieee.org/abstract/document/6555905"
