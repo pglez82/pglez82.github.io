@@ -123,9 +123,19 @@ publications:
     intro: |
       For the last years I have being working in machine learning, especially in plankton quantification, which has resulted in a few publications in major journals.
     papers:
+      - title: "Matching Distributions Algorithms Based on the Earth Mover’s Distance for Ordinal Quantification"
+        link: https://ieeexplore.ieee.org/abstract/document/9791435?casa_token=Sni-jNN_Dt0AAAAA:tbwryC2GddFSaKY6_vWVyXOIqn419RMfoKMo9YBJORNtuO6wbLNOZTM5p6BFKo-dV1r4eXzi3A
+        authors: Castaño, A., González, P., González, J. A., & Del Coz, J. J.
+        conference: "IEEE Transactions on Neural Networks and Learning Systems, 2022"
+
+      - title: Learning to quantify: Methods and applications (LQ 2021)
+        link: "https://dl.acm.org/doi/abs/10.1145/3459637.3482040"
+        authors: Del Coz, J. J., González, P., Moreo, A., Sebastiani, F.
+        conference: "Proceedings of the 30th ACM International Conference on Information & Knowledge Management"
+
       - title: Automatic plankton quantification using deep features
         link: "https://academic.oup.com/plankt/article-abstract/41/4/449/5537667"
-        authors: González, P., Castaño, A., Peacock, E. E., Díez, J., Del Coz, J. J., & Sosik, H. M.
+        authors: González, P., Castaño, A., Peacock, E. E., Díez, J., Del Coz, J. J., Sosik, H. M.
         conference: Journal of Plankton Research, 2019
 
       - title: A Review on Quantification Learning
@@ -135,12 +145,12 @@ publications:
 
       - title: Validation methods for plankton image classification systems
         link: "https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lom3.10151"
-        authors: González, P., Álvarez, E., Díez, J., López‐Urrutia, Á., & del Coz, J. J.
+        authors: González, P., Álvarez, E., Díez, J., López‐Urrutia, Á., del Coz, J. J.
         conference: "Limnology and Oceanography: Methods, 2016"
 
       - title: Why is quantification an interesting learning problem?
         link: "https://link.springer.com/article/10.1007/s13748-016-0103-3"
-        authors: González, P., Díez, J., Chawla, N., & del Coz
+        authors: González, P., Díez, J., Chawla, N., del Coz, J. J.
         conference: "Progress in Artificial Intelligence, 2016"
 
       - title: Multiclass Support Vector Machines With Example-Dependent Costs Applied to Plankton Biomass Estimation
