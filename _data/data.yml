@@ -98,9 +98,9 @@ courses:
     intro: >
       Check the material created for these courses.
     material:
-      - title: Deep Learning (in Spanish)
-      link: "https://pglez82.github.io/DeepLearningWeb/"
-      tagline: "Deep learning course material (PDF and video), in Spanish"
+      - title: Deep Learning
+        link: "https://pglez82.github.io/DeepLearningWeb/"
+        tagline: "Deep learning course material (PDF and video), in Spanish"
 projects:
     title: Side projects
     intro: >
