@@ -67,7 +67,7 @@ experiences:
       time: Oct 2020 - Present
       company: University of Oviedo, Spain
       details: |
-          - Subjects: Software Arquitecture, Programming.
+          - Subjects: Software Arquitecture, Programming, Deep Learning.
     - role: Part-Time lecturer
       time: 2018 - Oct 2020
       company: University of Oviedo, Spain
@@ -93,10 +93,18 @@ experiences:
       company: Fi2net, Gijón (Spain)
       details: |
           - Web applications design and programming using Java (JSF, Spring Framework, Oracle DB, etc).
+courses:
+    title: Courses
+    intro: >
+      Check the material created for these courses.
+    material:
+      - title: Deep Learning (in Spanish)
+      link: "https://pglez82.github.io/DeepLearningWeb/"
+      tagline: "Deep learning course material (PDF and video), in Spanish"
 projects:
     title: Side projects
     intro: >
-      In addition to my main job as a teacher and the PhD, I have worked in several personal projects using a variety of techonologies.
+      In addition to my main job as a teacher and the PhD, I have worked in several personal projects using a variety of technologies.
     assignments:
       - title: Boulder problems
         link: "https://play.google.com/store/apps/details?id=com.asturias.pablo.pasos"
@@ -105,14 +113,6 @@ projects:
       - title: Planetarium
         link: "https://github.com/espruino/BangleApps/tree/master/apps/planetarium"
         tagline: "Planetarium application in JavaScript for Bangle.js (Open Source Hackable Smart Watch)"
-        
-      - title: MeteoMarina
-        link: "https://github.com/pglez82/MeteoMarina"
-        tagline: "An Angular application (ported to Android using Cordova), for checking weather forecasts aimed to the sailing community in Spain."
-
-      - title: Navtex Bot
-        link: "https://github.com/pglez82/navtex_bot"
-        tagline: "A telegram bot written in python that sends Navtex messages (meteorological information)."
 
       - title: WHOI Results Plotter
         link: "https://pglez82.github.io/IFCB_quantification/"
