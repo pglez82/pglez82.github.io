@@ -123,10 +123,15 @@ publications:
     intro: |
       For the last years I have being working in machine learning, especially in plankton quantification, which has resulted in a few publications in major journals.
     papers:
-      - title: "An Equivalence Analysis of Binary Quantification Methods "
+      - title: "Binary quantification and dataset shift: an experimental investigation"
+        link: "https://link.springer.com/article/10.1007/s10618-024-01014-1"
+        authors: González, P., Moreo, A. & Sebastiani, F.
+        conference: Data Min Knowl Disc (2024)
+
+      - title: An Equivalence Analysis of Binary Quantification Methods
         link: "https://ojs.aaai.org/index.php/AAAI/article/view/25849"
         authors: Castaño, A., J. A., González, P., & Del Coz, J. J.
-        conference: "Proceedings of the AAAI Conference on Artificial Intelligence, 2023"
+        conference: Proceedings of the AAAI Conference on Artificial Intelligence, 2023
 
       - title: "Matching Distributions Algorithms Based on the Earth Mover’s Distance for Ordinal Quantification"
         link: "https://ieeexplore.ieee.org/abstract/document/9791435?casa_token=Sni-jNN_Dt0AAAAA:tbwryC2GddFSaKY6_vWVyXOIqn419RMfoKMo9YBJORNtuO6wbLNOZTM5p6BFKo-dV1r4eXzi3A"
