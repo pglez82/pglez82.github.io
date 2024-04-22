@@ -123,12 +123,17 @@ publications:
     intro: |
       For the last years I have being working in machine learning, especially in plankton quantification, which has resulted in a few publications in major journals.
     papers:
+      - title: "QuantificationLib: A Python library for quantification and prevalence estimation"
+        link: "https://www.sciencedirect.com/science/article/pii/S2352711024000992"
+        authors: A Castaño, J Alonso, P González, P Pérez, JJ del Coz.
+        conference: SoftwareX (2024)
+
       - title: "Binary quantification and dataset shift: an experimental investigation"
         link: "https://link.springer.com/article/10.1007/s10618-024-01014-1"
         authors: González, P., Moreo, A. & Sebastiani, F.
         conference: Data Min Knowl Disc (2024)
 
-      - title: An Equivalence Analysis of Binary Quantification Methods
+      - title: "An Equivalence Analysis of Binary Quantification Methods"
         link: "https://ojs.aaai.org/index.php/AAAI/article/view/25849"
         authors: Castaño, A., J. A., González, P., & Del Coz, J. J.
         conference: Proceedings of the AAAI Conference on Artificial Intelligence, 2023
