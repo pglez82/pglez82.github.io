@@ -123,6 +123,10 @@ publications:
     intro: |
       For the last years I have being working in machine learning, especially in plankton quantification, which has resulted in a few publications in major journals.
     papers:
+      - title: "Quantification using permutation-invariant networks based on histograms"
+        link: "https://link.springer.com/article/10.1007/s00521-024-10721-1"
+        authors: Pérez-Mon, O., Moreo, A., Del Coz, J. J. & González, P..
+        conference: Neural Computing and Applications , 2024
       - title: "QuantificationLib: A Python library for quantification and prevalence estimation"
         link: "https://www.sciencedirect.com/science/article/pii/S2352711024000992"
         authors: A Castaño, J Alonso, P González, P Pérez, JJ del Coz.
