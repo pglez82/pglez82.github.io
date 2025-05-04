@@ -106,10 +106,6 @@ projects:
     intro: >
       In addition to my main job as a teacher and the PhD, I have worked in several personal projects using a variety of technologies.
     assignments:
-      - title: Boulder problems
-        link: "https://play.google.com/store/apps/details?id=com.asturias.pablo.pasos"
-        tagline: "An Android application for sharing boulder problems with other climbers."
-
       - title: Planetarium
         link: "https://github.com/espruino/BangleApps/tree/master/apps/planetarium"
         tagline: "Planetarium application in JavaScript for Bangle.js (Open Source Hackable Smart Watch)"
