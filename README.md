@@ -2,6 +2,31 @@
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
+# My instructions
+
+Install:
+
+```
+gem install jekyll bundler
+```
+
+Create a Gemfile:
+```
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-minimal" 
+```
+
+In _config.yml change baseurl: '/' to baseurl: ""
+
+Execute:
+```
+bundle install
+bundle exec jekyll serve
+```
+
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
